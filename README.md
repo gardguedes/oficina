@@ -33,3 +33,4 @@ Objetivo: Sistema de controle e gerenciamento de execução de ordens de serviç
 - Por fim, acrescentei a entidade FORNECEDOR que se relaciona com PEÇAS. Pois essas serão adquiridas de várias origens, sendo possível ter mais de um fornecedor para um peça e várias peças com o mesmo fornecedor.
 
 ## Resolução do Desafio
+![Modelo conceitual do banco de oficina mecânica](https://github.com/user-attachments/assets/97efb115-b786-4cac-8bea-d53de21ead67)
